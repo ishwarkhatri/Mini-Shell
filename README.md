@@ -8,6 +8,4 @@ It forks and execs calls to create new processess to perform operations in paral
 
 It also creates deamon processes that executes in background and return results after completion.
 
-There is a provision to bring background process to foreground and visa-versa. Also you can assign a process to a particular group and 
-
-later can kill the group if needed. This will kill all the processes of that group.
+There is a provision to bring background process to foreground and visa-versa. Also you can assign a process to a particular group and later can kill the group if needed. This will kill all the processes of that group.
